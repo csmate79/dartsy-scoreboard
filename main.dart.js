@@ -48397,9 +48397,8 @@ s=this.w
 s===$&&A.a()
 r=s.d===1?B.qh:B.qj
 return A.wu(q,q,new A.ux(A.iB(!0,A.qV(new A.auK(this,p===!0,this.ge0().kv($.aSr(),t.s9),r)),!0,!1,B.ac,!0,!0),q),!1,q)},
-aaI(a){if(a>=1200)return 3
-if(a>=800)return 3
-if(a>=340)return 2
+aaI(a){if(a>=1100)return 3
+if(a>=720)return 2
 return 1},
 P3(a,b,c,d,e,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=this.w
 f===$&&A.a()
